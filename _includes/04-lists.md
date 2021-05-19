@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- heres a list of things
+  - purple
+  - pink
+  - girl
+  - short
+  - tennis 🎾
